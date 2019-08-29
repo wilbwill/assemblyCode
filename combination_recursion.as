@@ -47,11 +47,11 @@ return 	lw			0		6		neg1
 		add 		5		6		5		decrement stack pointer
 		lw		5		7		Stack 		load original return address
 		jalr		7		4				return to main
-n		.fill		7
-r		.fill		3
-pos1		.fill		1
-neg1		.fill		-1
-Caddr		.fill		comb
-Ret1 		.fill		ret1
-Ret2 		.fill		ret2
-Stack 		.fill		0
+n	.fill		7
+r	.fill		3
+pos1	.fill		1
+neg1	.fill		-1
+Caddr	.fill		comb
+Ret1 	.fill		ret1
+Ret2 	.fill		ret2
+Stack 	.fill		0
