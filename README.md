@@ -1,5 +1,5 @@
 # assemblyCode
-A couple programs written in pure assembly code.
+A couple programs written in assembly.
 
 multiplier.as is an assembly program that uses bit-shifting to multiply two simple numbers together.
 
